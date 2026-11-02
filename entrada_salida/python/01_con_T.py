@@ -1,8 +1,9 @@
-from utilidades import sumar_caso
+def suma(valores):
+    return sum(valores)
 
 
 def main():
-    raise NotImplementedError("TODO bucle con T")
+    pass
 
 
 if __name__ == "__main__":
